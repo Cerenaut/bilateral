@@ -1,2 +1,2 @@
-# bilateral
-Moved to bilateral-brain
+
+# This repository has moved to `bilateral-brain`
